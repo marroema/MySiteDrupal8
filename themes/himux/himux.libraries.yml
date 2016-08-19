@@ -1,0 +1,31 @@
+style: 
+  css:
+    theme:
+      css/animate.css: {}
+      css/bootstrap.min.css: {}
+      css/font-awesome.min.css: {}
+      css/jquery.sidr.dark.css: {}
+      css/main.css: {}
+      css/prettyPhoto.css: {}
+      css/reset.css: {}
+      css/responsive.css: {}
+      
+script:
+  js:
+    js/bootstrap.min.js: {}
+    js/html5shiv.js: {}
+    js/jquery.isotope.min.js: {}
+    js/jquery.js: {}
+    js/jquery.parallax.js: {}
+    js/jquery.prettyPhoto.js: {}
+    js/main.js: {}
+    js/respond.min.js: {}
+    js/smoothscroll.js: {}
+    
+    
+	
+	
+	
+	
+	
+	

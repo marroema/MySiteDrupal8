@@ -1,0 +1,20 @@
+name: Citrix
+type: theme
+description: Citrix customized theme
+package: Custom
+core: 8.x
+libraries:
+  - citrix/style
+  - citrix/script
+regions:
+  myheader: My Header
+  home: Home
+  about: About
+  services: Services
+  team: Team
+  portfolio: Portfolio
+  clients: Clients
+  blog: Blog
+  contact: Contact
+  footer: Footer
+  content: Content
